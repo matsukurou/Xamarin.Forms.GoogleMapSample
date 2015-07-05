@@ -19,6 +19,9 @@ namespace MapSample.Droid
 
 			global::Xamarin.Forms.Forms.Init(this, bundle);
 
+			// Xamarin.Forms.Mapsの初期化
+			Xamarin.FormsMaps.Init(this, bundle);
+
 			LoadApplication(new App());
 		}
 	}

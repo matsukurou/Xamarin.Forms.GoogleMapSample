@@ -14,6 +14,9 @@ namespace MapSample.iOS
 		{
 			global::Xamarin.Forms.Forms.Init();
 
+			// Xamarin.Froms.Mapsの初期化
+			Xamarin.FormsMaps.Init();
+
 			// Code for starting up the Xamarin Test Cloud Agent
 			#if ENABLE_TEST_CLOUD
 			Xamarin.Calabash.Start();
