@@ -10,7 +10,7 @@ namespace MapSample
 	{
 		public MapPage()
 		{
-			// マップの中心座標の設定
+			// マップの中心座標の設定(渋谷駅の緯度経度を設定してある)
 			var centerPosition = new Position(35.658517, 139.701334);
 			// 中心座標からの表示距離（マップの縮尺）を設定
 			var distanceFromCenter = Distance.FromKilometers(0.5);
@@ -25,5 +25,3 @@ namespace MapSample
 		}
 	}
 }
-
-
