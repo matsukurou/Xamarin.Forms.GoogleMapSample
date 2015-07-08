@@ -1,13 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapSample", "MapSample\MapSample.csproj", "{AB47F896-1445-4712-9F57-87D4B8D2064F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleMapSample", "MapSample\GoogleMapSample.csproj", "{AB47F896-1445-4712-9F57-87D4B8D2064F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapSample.iOS", "iOS\MapSample.iOS.csproj", "{B7E6C4F8-CD63-47C1-8705-04F2B8BB5BF8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleMapSample.iOS", "iOS\GoogleMapSample.iOS.csproj", "{B7E6C4F8-CD63-47C1-8705-04F2B8BB5BF8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapSample.Droid", "Droid\MapSample.Droid.csproj", "{80BF68CE-DF6C-4355-A505-57013A8D4275}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleMapSample.Droid", "Droid\GoogleMapSample.Droid.csproj", "{80BF68CE-DF6C-4355-A505-57013A8D4275}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapSample.UITests", "UITests\MapSample.UITests.csproj", "{6D9A2D30-9344-400E-BC3B-CC7ED22AC8A8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleMapSample.UITests", "UITests\GoogleMapSample.UITests.csproj", "{6D9A2D30-9344-400E-BC3B-CC7ED22AC8A8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -2,7 +2,7 @@
 
 using Xamarin.Forms;
 
-namespace MapSample
+namespace GoogleMapSample
 {
 	public class App : Application
 	{

@@ -4,7 +4,7 @@ using System.Linq;
 using Xamarin.UITest;
 using Xamarin.UITest.Queries;
 
-namespace MapSample.UITests
+namespace GoogleMapSample
 {
 	public class AppInitializer
 	{

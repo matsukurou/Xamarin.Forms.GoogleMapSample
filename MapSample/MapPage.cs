@@ -4,7 +4,7 @@ using Xamarin.Forms;
 
 using Xamarin.Forms.Maps;
 
-namespace MapSample
+namespace GoogleMapSample
 {
 	public class MapPage : ContentPage
 	{

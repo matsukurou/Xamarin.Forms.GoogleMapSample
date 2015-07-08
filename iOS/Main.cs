@@ -5,7 +5,7 @@ using System.Linq;
 using Foundation;
 using UIKit;
 
-namespace MapSample.iOS
+namespace GoogleMapSample
 {
 	public class Application
 	{

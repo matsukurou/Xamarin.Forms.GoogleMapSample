@@ -6,14 +6,14 @@
     <ProjectTypeGuids>{EFBA0AD7-5A72-4C68-AF49-83D382785DCF};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <ProjectGuid>{80BF68CE-DF6C-4355-A505-57013A8D4275}</ProjectGuid>
     <OutputType>Library</OutputType>
-    <RootNamespace>MapSample.Droid</RootNamespace>
+    <RootNamespace>GoogleMapSample.Droid</RootNamespace>
     <MonoAndroidAssetsPrefix>Assets</MonoAndroidAssetsPrefix>
     <MonoAndroidResourcePrefix>Resources</MonoAndroidResourcePrefix>
     <AndroidResgenClass>Resource</AndroidResgenClass>
     <AndroidResgenFile>Resources\Resource.designer.cs</AndroidResgenFile>
     <AndroidApplication>True</AndroidApplication>
     <AndroidUseLatestPlatformSdk>True</AndroidUseLatestPlatformSdk>
-    <AssemblyName>MapSample.Droid</AssemblyName>
+    <AssemblyName>GoogleMapSample.Droid</AssemblyName>
     <AndroidManifest>Properties\AndroidManifest.xml</AndroidManifest>
     <TargetFrameworkVersion>v5.0</TargetFrameworkVersion>
   </PropertyGroup>
@@ -78,9 +78,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\MapSample\MapSample.csproj">
+    <ProjectReference Include="..\MapSample\GoogleMapSample.csproj">
       <Project>{AB47F896-1445-4712-9F57-87D4B8D2064F}</Project>
-      <Name>MapSample</Name>
+      <Name>GoogleMapSample</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
