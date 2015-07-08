@@ -4,6 +4,7 @@ using System.Linq;
 
 using Foundation;
 using UIKit;
+using Google.Maps;
 
 namespace GoogleMapSample
 {
@@ -13,6 +14,8 @@ namespace GoogleMapSample
 		public override bool FinishedLaunching(UIApplication app, NSDictionary options)
 		{
 			global::Xamarin.Forms.Forms.Init();
+
+			MapServices.ProvideAPIKey("＜取得したAPI Keyをここに書く＞");
 
 			// Xamarin.Froms.Mapsの初期化
 			Xamarin.FormsMaps.Init();
