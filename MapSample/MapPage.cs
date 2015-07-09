@@ -19,7 +19,7 @@ namespace GoogleMapSample
 			var mapSpan = MapSpan.FromCenterAndRadius(centerPosition, distanceFromCenter);
 
 			// 設定した内容でマップを生成
-			var map = new Map(mapSpan);
+			var map = new CustomMap(mapSpan);
 
 			Content = map;
 		}
